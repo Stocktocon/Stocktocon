@@ -1,4 +1,5 @@
-### Hi there 👋
+**hello :D**
+this is my page of something something. I'm pretty new to programming so よろしくお願いします。
 
 <!--
 **Stocktocon/Stocktocon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
