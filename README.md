@@ -1,6 +1,10 @@
 **hello :D**
 this is my page of something something. I'm pretty new to programming so よろしくお願いします。
 
+- Currently Enrolled at UCSD 
+- ECE 26 Computer Engineering Major
+- Class of 2025
+
 <!--
 **Stocktocon/Stocktocon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
